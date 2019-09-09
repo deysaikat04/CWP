@@ -1,0 +1,36 @@
+<div class="item">
+            <div class="testimonial-box">
+                <figure class="client-image img-round pt20">
+                    <img src="assets/images/users/heart.jpg" alt="">
+                </figure><!--/.client-image-->
+                <span class="quote-icon"><i class="fa fa-quote-right" aria-hidden="true"></i></span>
+                <p>They are a bunch of hardworking professionals to get the perfect shot. Very cooperative and good to have. Completely satisfied. </p>
+                <span class="client-designation">
+                        <a href="https://www.facebook.com/praloy.sinha.5" target="_blank"><i class="fa fa-facebook-official fa-lg" aria-hidden="true"></i></a>
+                </span>
+            </div><!--/.testimonial-box-->
+        </div><!--/.item-->
+        <div class="item">
+            <div class="testimonial-box">
+                <figure class="client-image img-round pt20">
+                    <img src="assets/images/users/heart.jpg" alt="">
+                </figure><!--/.client-image-->
+                <span class="quote-icon"><i class="fa fa-quote-right" aria-hidden="true"></i></span>
+                <p>Awesome work, very young and innovative photographers.Outdoor photoshoot pics are just mind blowing.Thanks. </p>
+                <span class="client-designation">
+                        <a href="#" target="_blank"><i class="fa fa-facebook-official fa-lg" aria-hidden="true"></i></a>
+                </span>
+            </div><!--/.testimonial-box-->
+        </div><!--/.item-->
+        <div class="item">
+            <div class="testimonial-box">
+                <figure class="client-image img-round pt20">
+                    <img src="assets/images/users/heart.jpg" alt="">
+                </figure><!--/.client-image-->
+                <span class="quote-icon"><i class="fa fa-quote-right" aria-hidden="true"></i></span>
+                <p>Awesome work, very young and innovative photographers.Outdoor photoshoot pics are just mind blowing. <br> Thanks.Young energetic guys with brilliant aesthetic sense. <br> Making memories of a lifetime. </p>
+                <span class="client-designation">
+                        <a href="https://www.facebook.com/saurabh.tiwari.106" target="_blank"><i class="fa fa-facebook-official fa-lg" aria-hidden="true"></i></a>
+                </span>
+            </div><!--/.testimonial-box-->
+        </div><!--/.item-->
